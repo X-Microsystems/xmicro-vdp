@@ -1,1 +1,1 @@
-All files apply to XMICRO-VDP V1.0.
+All files apply to XMICRO-VDP V1.1.

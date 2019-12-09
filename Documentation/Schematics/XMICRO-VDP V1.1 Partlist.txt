@@ -1,0 +1,101 @@
+Partlist
+
+Exported from XMICRO-VDP V1.1.sch at 12/8/2019 7:52:40 PM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device             Package      Library  Sheet
+
+C1       0.1uF              C-US100            C100         Custom   5
+C2       0.1uF              C-US100            C100         Custom   5
+C3       0.1uF              C-US100            C100         Custom   5
+C4       0.1uF              C-US100            C100         Custom   5
+C5       0.1uF              C-US100            C100         Custom   5
+C6       0.1uF              C-US100            C100         Custom   5
+C7       0.1uF              C-US100            C100         Custom   5
+C8       0.1uF              C-US100            C100         Custom   5
+C9       0.1uF              C-US100            C100         Custom   5
+C10      0.1uF              C-US100            C100         Custom   5
+C11      0.1uF              C-US100            C100         Custom   5
+C12      0.1uF              C-US100            C100         Custom   5
+C13      0.1uF              C-US100            C100         Custom   5
+C14      0.1uF              C-US100            C100         Custom   5
+C15      0.1uF              C-US100            C100         Custom   5
+C16      0.1uF              C-US100            C100         Custom   5
+C17      0.1uF              C-US100            C100         Custom   5
+C18      0.1uF              C-US100            C100         Custom   5
+C19      0.1uF              C-US100            C100         Custom   2
+C20      22pF               C-US100            C100         Custom   2
+C21      22pF               C-US100            C100         Custom   2
+C22      0.1uF              C-US100            C100         Custom   5
+C23      0.1uF              C-US100            C100         Custom   3
+C24      0.1uF              C-US100            C100         Custom   3
+C25      0.1uF              C-US100            C100         Custom   3
+C26      5pF                C-US100            C100         Custom   3
+C27      47pF               C-US100            C100         Custom   3
+C28      10nF               C-US100            C100         Custom   5
+C29      10nF               C-US050-024X044    C050-024X044 rcl      5
+C30      28pF               C-US100            C100         Custom   3
+C31      47uF               CPOL-USE2.5-6      E2,5-6       rcl      5
+C32      47uF               CPOL-USE2.5-6      E2,5-6       rcl      5
+C33      47uF               CPOL-USE2.5-6      E2,5-6       rcl      5
+C34      470uF              CPOL-US-10-5       C-10-5       Custom   5
+C35      47uF               CPOL-USE2.5-6      E2,5-6       rcl      5
+C36      47uF               CPOL-USE2.5-6      E2,5-6       rcl      5
+C37      220uF              CPOL-USE2.5-7      E2,5-7       rcl      3
+C38      220uF              CPOL-USE2.5-7      E2,5-7       rcl      3
+C39      220uF              CPOL-USE2.5-7      E2,5-7       rcl      3
+CE1      XMICRO-BUS-EDGE62M XMICRO-BUS-EDGE62M EDGE62M      Custom   1
+J1       PJRAN1XU04AUX      PJRAN1             PJRAN1       Custom   3
+J2       MINI-DIN4          MINI-DIN4          MINI-DIN4    Custom   3
+J3       PINHD1X3           PINHD1X3           1X03         Custom   3
+J4       PINHD-2X6          PINHD-2X6          2X06         Custom   2
+J5       PINHD-1X8          PINHD-1X8          1X08         Custom   3
+JP1      PINHD-1X2THRU      PINHD-1X2THRU      1X02         Custom   4
+JP2      PINHD-1X2THRU      PINHD-1X2THRU      1X02         Custom   4
+JP3      PINHD1X3THRU       PINHD1X3THRU       1X03         Custom   1
+L1       68uH               L-US0207/10        0207/10      rcl      3
+Q1       VN2106             VN2106             TO92         Custom   4
+Q2       VN2106             VN2106             TO92         Custom   1
+R1       3.3k               R-US_0207/10       0207/10      rcl      1
+R2       10k                R-US_0207/10       0207/10      rcl      4
+R3       3.3k               R-US_0207/10       0207/10      rcl      4
+R4       0                  R-US_0207/10       0207/10      rcl      4
+R5       0                  R-US_0207/10       0207/10      rcl      1
+R6       3.3k               R-US_0207/10       0207/10      rcl      2
+R7       470                R-US_0207/10       0207/10      rcl      3
+R8       470                R-US_0207/10       0207/10      rcl      3
+R9       470                R-US_0207/10       0207/10      rcl      3
+R10      0                  R-US_0207/10       0207/10      rcl      3
+R11      2.2k               R-US_0207/10       0207/10      rcl      3
+R12      2.2k               R-US_0207/10       0207/10      rcl      3
+R13      0                  R-US_0207/10       0207/10      rcl      3
+R14      2.2k               R-US_0207/10       0207/10      rcl      3
+R15      3.32k/1%           R-US_0207/10       0207/10      rcl      3
+R16      75                 R-US_0207/10       0207/10      rcl      3
+R17      75                 R-US_0207/10       0207/10      rcl      3
+R18      43                 R-US_0207/10       0207/10      rcl      3
+R19      240                R-US_0207/10       0207/10      rcl      3
+RN1      3.3k               RN8                SIL9         Custom   1
+U1       41464              41464              DIL18        Custom   2
+U2       41464              41464              DIL18        Custom   2
+U3       41464              41464              DIL18        Custom   2
+U4       41464              41464              DIL18        Custom   2
+U5       41464              41464              DIL18        Custom   2
+U6       41464              41464              DIL18        Custom   2
+U7       74138              74S138N            DIL16        74xx-us  2
+U8       74373              74LS373N           DIL20        74xx-us  2
+U9       7474               74LS74N            DIL14        74xx-us  4
+U10      7414               74LS14N            DIL14        74xx-us  1
+U11      7404               74LS04N            DIL14        74xx-us  1
+U12      74244              74LS244N           DIL20        74xx-us  5
+U13      7432               74LS32N            DIL14        74xx-us  1
+U14      74574              74HC574N           DIL20        74xx-us  1
+U15      74244              74LS244N           DIL20        74xx-us  1
+U16      74245              74LS245N           DIL20        74xx-us  1
+U17      V9958              V9958              SDIP64       Custom   2
+U18      CXA2075            CXA2075            SOP-24       Custom   3
+Y1       5MHz               OSC-OE             DIL08S       Custom   4
+Y2       21.47727MHz        CRYSTAL            HC-49US      Custom   2
