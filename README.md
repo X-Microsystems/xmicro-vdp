@@ -1,2 +1,6 @@
 # XMICRO-VDP
 Video card for the XMICRO bus, based on the Yamaha V9958 VDP
+
+![XMICRO-VDP](Images/XMICRO-VDP.jpg)
+
+![XMICRO-VDP](Images/System%20Running.jpg)
